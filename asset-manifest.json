@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalmatovski/ait_kgz/static/css/main.c8ffddb5.css",
+    "main.js": "/kalmatovski/ait_kgz/static/js/main.f27f37ce.js",
+    "static/js/453.1407b060.chunk.js": "/kalmatovski/ait_kgz/static/js/453.1407b060.chunk.js",
+    "index.html": "/kalmatovski/ait_kgz/index.html",
+    "main.c8ffddb5.css.map": "/kalmatovski/ait_kgz/static/css/main.c8ffddb5.css.map",
+    "main.f27f37ce.js.map": "/kalmatovski/ait_kgz/static/js/main.f27f37ce.js.map",
+    "453.1407b060.chunk.js.map": "/kalmatovski/ait_kgz/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ffddb5.css",
+    "static/js/main.f27f37ce.js"
+  ]
+}
